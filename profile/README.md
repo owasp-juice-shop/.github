@@ -4,8 +4,20 @@ This GitHub organization uses some vulnerable apps to demonstrate some hacks and
 * [OWASP webgoat](https://owasp.org/www-project-webgoat/)
 * ...
 
-# owasp-juice-shop tutorials & bugfixes
+# owasp juice-shop
+
+The source code is in [this forked repo](https://github.com/owasp-training/juice-shop)
 
 The full list of challenges is available [here](https://pwning.owasp-juice.shop/part2/)
 
 The demo + bugfixes are uploaded into [separate repositories](https://github.com/orgs/owasp-training/repositories).
+
+# owasp web-goat
+
+[wiki](https://github.com/owasp-training/WebGoat/wiki), [infos](https://owasp.org/www-project-webgoat/)
+
+The source code is in [this forked repo](https://github.com/owasp-training/WebGoat)
+
+Some solutions are available here:
+* [en](https://github.com/owasp-training/WebGoat/wiki/(Almost)-Fully-Documented-Solution-(en))
+* [fr](https://github.com/owasp-training/WebGoat/wiki/(Almost)-Fully-Documented-Solution-(fr))
