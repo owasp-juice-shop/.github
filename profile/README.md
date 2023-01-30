@@ -21,3 +21,7 @@ The source code is in [this forked repo](https://github.com/owasp-training/WebGo
 Some solutions are available here:
 * [en](https://github.com/owasp-training/WebGoat/wiki/(Almost)-Fully-Documented-Solution-(en))
 * [fr](https://github.com/owasp-training/WebGoat/wiki/(Almost)-Fully-Documented-Solution-(fr))
+
+# TODO
+
+[https://www.linkedin.com/posts/harunseker_owasp-owasptop10-cybersecurity-activity-7025834990705807360-nOff?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/harunseker_owasp-owasptop10-cybersecurity-activity-7025834990705807360-nOff?utm_source=share&utm_medium=member_desktop)
