@@ -21,3 +21,7 @@ The source code is in [this forked repo](https://github.com/owasp-training/WebGo
 Some solutions are available here:
 * [en](https://github.com/owasp-training/WebGoat/wiki/(Almost)-Fully-Documented-Solution-(en))
 * [fr](https://github.com/owasp-training/WebGoat/wiki/(Almost)-Fully-Documented-Solution-(fr))
+
+# OWASP cheat sheet (by 42Crunch.com)
+
+[42crunch cheat sheet](./assets/owasp-api-security-top-10-cheat-sheet-a4.pdf)
