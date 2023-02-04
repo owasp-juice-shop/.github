@@ -25,3 +25,7 @@ Some solutions are available here:
 # OWASP cheat sheet (by 42Crunch.com)
 
 [42crunch cheat sheet](./assets/owasp-api-security-top-10-cheat-sheet-a4.pdf)
+
+# TODO
+
+[https://www.hacksplaining.com/](https://www.hacksplaining.com/)
