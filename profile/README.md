@@ -8,7 +8,9 @@ This GitHub organization uses some vulnerable apps to demonstrate some hacks and
 
 The source code is in [this forked repo](https://github.com/owasp-training/juice-shop)
 
-The full list of challenges is available [here](https://pwning.owasp-juice.shop/part2/)
+The full list of challenges is available: [https://pwning.owasp-juice.shop/companion-guide/latest/part2/score-board.html](https://pwning.owasp-juice.shop/companion-guide/latest/part2/score-board.html)
+
+Solutions : [https://help.owasp-juice.shop/appendix/solutions.html](https://help.owasp-juice.shop/appendix/solutions.html)
 
 The demo + bugfixes are uploaded into [separate repositories](https://github.com/orgs/owasp-training/repositories).
 
